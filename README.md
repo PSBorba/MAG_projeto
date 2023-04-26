@@ -2,4 +2,4 @@
 
 > status de projeto: Em desenvolvimento
 
-node parte.js
+node Teste.js
